@@ -5,7 +5,7 @@ comments:
   path: "data/comments/{options.slug}"
   filename          : "comment-{@timestamp}"
   format            : "yaml"
-  moderation        : true
+  moderation        : false
   requiredFields    : ['name', 'email', 'comment']
   transforms:
     email           : md5
@@ -16,5 +16,5 @@ comments:
         format      : "iso8601"
   reCaptcha:
     enabled: true
-    siteKey: "6LeZpToUAAAAAIVoByULm4eunmCL76Arn0dH-q8z"
-    secret: "akUFoQUbDksw1BVWS162FgkLB65EwI85zeOQcPEmzXPULmhiE+d/LU/FKfnbeUjetjVeZmIDmEGNCKQc+8Er7rH1nAOJP6bN3oJvi/YtbSKEZfUdXAKvECyPfjl7J0rQ3YvtvEQX4VnyKqnAMottOaIZ3CXRI9TwbFFgYjSSJwQ="
+    siteKey: "6LeP0WUUAAAAAGhN7s7K3NvwmdYQdP6mxeFmXbzf"
+    secret: "X0/UyjVoJAQ4lEkY9PcPj5fjRyfmfDeJqznVUlbueAKw/wx8Xlxb8VqO42lObJxNeDKuMzK3x+vYlsVoN3Kiudj71edCXUWxIp6GDIs0SnwReNM7anoLoIMMEvNaABNhOACbsWJyfjmHJrUxuuV74VNapH8AsMtg6VrkxeOQVls="

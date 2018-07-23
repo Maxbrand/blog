@@ -1,49 +1,51 @@
 ---
-date: 2017-06-04
-subtitle: "Or how I learned to love Docker Cloud and Scaleway"
-tags: ["deployment", "devops", "docker", "scaleway"]
-title: Auto-deployment of your app from Github
+date: 2018-07-23
+subtitle: "The Soul Exchange - Vow of Seth"
+title: Lighting Breakdown for a Music Video
 ---
 
-## Update
-Docker Cloud is [being discontinued](http://success.docker.com/article/cloud-migration).
-For an alternative easy app deployment, check my new post
-on [automatic app deployment](/redeploy). Furthermore,
-I would nowadays recommend [Hetzner Cloud](https://www.hetzner.com/)
-over Scaleway. Scaleway was running out of instances
-last time I tried using them, and Hetzner's web console
-is much better than Scaleways.
+## The Video
+Before we get into the details, I figure you might be interested in seing the results.
+Take a look and continue reading below when you're finished!
 
-Old post preserved below.
+{{< vimeo 253673229 >}}
+
 ## Introduction
-Yesterday (!) I asked in the Gophers slack for recommendations for deployment
-of static Go binaries, as I was in the process of deploying a demo for another
-blog post I'm working on. I was told to check out [Scaleway](https://www.scaleway.com/)
-among other things, and found it to be an excellent option for simple and cheap hosting.
-It currently provides data centres in Paris and Amsterdam, which is perfect for me. I then found I could automatically
-build and deploy docker images via
-[Docker Cloud](https://cloud.docker.com/),
-directly from GitHub. It was all so easy that I thought I'd
-put together a quick walkthrough of the steps
-I followed to get everything up and running.
+I've always appreciated reading about how things are actually done behind the scenes, so 
+it seems just right that I would share my own experiences and thoughts when going about a project.
 
-## Spin up the server
-Register with Scaleway, add your SSH public key
-and start a `VC1S` server. We could
-get fancy here and use an `ARM` backed server,
-but I don't see the need so I
-opted for the `x86` machine. 2 threads, 2GB memory, 50GB SSD
-and it costs us `€2.99` per month _at most_,
-or as little as `€0.006` per hour. The fee also
-includes a public `IPv4` address. What a bargain!
+Last autumn I was asked to shoot a music video for the band The Soul Exchange. We didn't have much of a budget
+but we had a cool location and a great but small crew. Directed by Ludvig Gür and produced by Najka Pictures I knew 
+that it was going to be a great time. 
 
-Go for the `Docker` image listed under the `ImageHub` section,
-as we'll need docker installed on the machine for later.
+We shot the music video over two days. Day 1 was the story part of the video and day 2 was shooting all the band members.
+All of it took part in [Bogesund Castle](https://goo.gl/maps/EKSzBHcfHZw). We used pretty much every room in there in order 
+to get some variation in the shots.
 
-While the machine is spinning up it's time to set up our
-Docker Cloud account.
+## The Gear
+As we had a low budget I and great gaffer [Kamil Janowski](http://www.kjanowski.com/) figured using 
+Tungsten as the main lighting would be a good idea. We planned to use the hard light from par cans to 
+be our main source and to haze up the rooms for added atmosphere and depth. Unfortunately we were 
+forbidden by the landlord from any hazing at all. We instead opted for Tiffen Smoque, a filter that is
+supposed to mimic the effect of haze without actually using any. Obviously we didn't get the same 
+depth that real haze gives, but I was surprised by how well it worked giving a sense of haziness in the 
+room. It benefitted us greatly that we had so many light sources pointing straight into the lens making 
+the effect much more pronounced.
 
-## Docker Cloud
+We also added a dedolight kit for very precise lighting (I'll get to that), a dedolight kit, 2 LED-panels 
+bi-colour and some very versatile 3-foot Pipeline Free from [BB&S] (https://bbsrentalsupport.com/collections/pipeline-system/products/pipeline-free-5600k-1-feet)
+
+Since we were going for a dark look but we were shooting during the day, we had to get some black cloth and flags to block out the sunlight as well.
+
+#### So what we ended up using was: <br>
+* 5 Par cans 1kW
+* 1 Dedolight kit 3x150W
+* 2 1x1 LED-panels Bi-colour
+* 4 3-Foot Pipeline Free
+* Flags and black cloth
+
+
+## Scene 1
 [Register or login](https://cloud.docker.com/) if
 you already have a Docker hub account, and
 navigate to `Cloud Settings`. You'll need to link your GitHub
