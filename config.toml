@@ -22,8 +22,8 @@ googleAnalytics = "UA-49575020-2"
 		api = "https://api.staticman.net/v2/entry/maxbrand/blog/master/comments"
 		pulls = "https://github.com/maxbrand/blog/pulls"
 		[Params.staticman.recaptcha]
-			sitekey = "6LeZpToUAAAAAIVoByULm4eunmCL76Arn0dH-q8z"
-			secret = "akUFoQUbDksw1BVWS162FgkLB65EwI85zeOQcPEmzXPULmhiE+d/LU/FKfnbeUjetjVeZmIDmEGNCKQc+8Er7rH1nAOJP6bN3oJvi/YtbSKEZfUdXAKvECyPfjl7J0rQ3YvtvEQX4VnyKqnAMottOaIZ3CXRI9TwbFFgYjSSJwQ="
+			sitekey = "6LeP0WUUAAAAAGhN7s7K3NvwmdYQdP6mxeFmXbzf"
+			secret = "X0/UyjVoJAQ4lEkY9PcPj5fjRyfmfDeJqznVUlbueAKw/wx8Xlxb8VqO42lObJxNeDKuMzK3x+vYlsVoN3Kiudj71edCXUWxIp6GDIs0SnwReNM7anoLoIMMEvNaABNhOACbsWJyfjmHJrUxuuV74VNapH8AsMtg6VrkxeOQVls="
 
 
 [Author]
