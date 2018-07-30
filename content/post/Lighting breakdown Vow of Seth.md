@@ -35,7 +35,7 @@ Obviously we didn't get the same
 depth that real haze gives, but I was surprised by how well it worked giving a sense of haziness in the room. It benefitted us greatly that we had so many light sources pointing straight into the lens making the effect much more pronounced.
 
 We also added a dedolight kit for very precise lighting (I'll get to that), a dedolight kit, 2 LED-panels 
-bi-colour and some very versatile 4-foot Pipeline Raw from [BB&S] ((https://bbsrentalsupport.com/collections/pipeline-system)
+bi-colour and some very versatile 4-foot Pipeline Raw from [BB&S](https://bbsrentalsupport.com/collections/pipeline-system)
 
 Since we were going for a dark look but we were shooting during the day, we had to get some black cloth and flags to block out the sunlight from the windows as well.
 
