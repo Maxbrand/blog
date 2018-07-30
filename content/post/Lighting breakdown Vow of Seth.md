@@ -62,23 +62,40 @@ fast.
 
 
 ## Scene 1 - Drummer
-
-{{< figure src="/img/vos/Drums1.jpg" title="Note the par cans behind" >}}
+<br>
+{{< figure src="/img/vos/Drums1.jpg" >}}
 
 What's great about this video is that we knew from the start that we wanted lights inside the shot
 so we never had to worry about limitations for the lights. I wanted to try to be creative with the rooms we had and to get some variation between the shots. This was the first shot we did with any instrument.
-
-{{< figure src="/img/vos/Drums2.jpg" >}}
-
+<br>
+{{< figure src="/img/vos/Drums2.jpg" title="Note the par cans behind" >}}
+<br>
 We placed three par cans behind the drummer pointed towards him, you can see them in the shot. Then
 we added a single pipeline just outside of frame to bring up the exposure of the drummer. Great output
 in such a small light. The final touch was to use a dedo pointed at the bass drum to bring up the 
 exposure of the band logo.
+<br>
+We shot him playing the whole song two times, once in a wide shot, something like 25mm and 50mm. I mostly used the Sigma 18-35mm in this videoand eery now and then i used the 50mm. 
+<br>
+{{< figure src="/img/vos/VoS1.jpg" title="Lighting schematic" >}}
+<br>
+It was a pretty fast and easy setup, but that's how we had to think thoughout the day since we 
+had so many shots to get in a short amount of time.
+<br>
 
-{{< figure src="/img/vos/VoS1.jpg" >}}
 
+## Scene 2 - Lead Guitar
+<br>
+{{< figure src="/img/vos/leadguitar.jpg" >}}
+<br>
+For this one we added a bit of daylight to give some colour contrast with the tungsten coming from
+the side. We had a bit more work to do in blocking the daylight in this shot since it was shot across
+a hallway covering several rooms. To give a sense of depth we didn't fully block one of the windows so we had some light hitting the wall just in front of the guitarist. 
+<br>
+The daylight on the guitarist is from a Litepanel with grid on it to reduce spilling on the back wall. We dimmed down the par can and the dedo to get a very red-orange colour on his neck and face.
+<br>
+{{< figure src="/img/vos/VoS2.jpg" title="Lighting schematic" >}}
 
-## Register the Scaleway node to Docker Cloud
 Once registered, we need to add our Scaleway node as a Docker node.
 First things first, Docker Cloud requires us to open a
 couple of inbound ports, namely `2375/tcp`, `6783/tcp` and `6783/udp`.
