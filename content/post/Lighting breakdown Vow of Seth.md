@@ -28,16 +28,19 @@ Tungsten as the main lighting would be a good idea. We planned to use the hard l
 be our main source and to haze up the rooms for added atmosphere and depth. Unfortunately we were 
 forbidden by the landlord from any hazing at all. We instead opted for Tiffen Smoque, a filter that is
 supposed to mimic the effect of haze without actually using any. 
-{{< figure src="/img/Smoque.jpg" title="Smoque-filter in action" >}}
+
+{{< figure src="/img/vos/Smoque.jpg" title="[Smoque-filter](https://tiffen.com/diffusion/) in action" >}}
+
 Obviously we didn't get the same 
-depth that real haze gives, but I was surprised by how well it worked giving a sense of haziness in the 
-room. It benefitted us greatly that we had so many light sources pointing straight into the lens making 
-the effect much more pronounced.
+depth that real haze gives, but I was surprised by how well it worked giving a sense of haziness in the room. It benefitted us greatly that we had so many light sources pointing straight into the lens making the effect much more pronounced.
 
 We also added a dedolight kit for very precise lighting (I'll get to that), a dedolight kit, 2 LED-panels 
 bi-colour and some very versatile 3-foot Pipeline Free from [BB&S] (https://bbsrentalsupport.com/collections/pipeline-system/products/pipeline-free-5600k-1-feet)
 
 Since we were going for a dark look but we were shooting during the day, we had to get some black cloth and flags to block out the sunlight from the windows as well.
+
+We wanted to have some camera movement but with our limited time I figured a wheelchair and shoulder mount would be best. This way we could get some movement that was steadier than walking but still move
+fast.
 
 #### So what we ended up using was: <br>
 
@@ -49,15 +52,30 @@ Since we were going for a dark look but we were shooting during the day, we had 
 * Flags and black cloth
 
 ##### Camera
-* Red Dragon Epic 6K 
+* Red Epic Dragon 6K 
 * Sigma Art-lenses
-* Tiffen Smoque 2 
+* [Tiffen Smoque 2](https://tiffen.com/diffusion/)
 * Tiffen ND-filters
 * Bright Tangerine Misfit Atom
 * DJI Follow Focus
+* Wheelchair
 
 
-## Scene 1
+## Scene 1 - Drummer
+
+{{< figure src="/img/vos/Drums1.jpg" title="Note the par cans behind" >}}
+
+What's great about this video is that we knew from the start that we wanted lights inside the shot
+so we never had to worry about limitations for the lights. I wanted to try to be creative with the rooms we had and to get some variation between the shots. This was the first shot we did with any instrument.
+
+{{< figure src="/img/vos/Drums2.jpg" >}}
+
+We placed three par cans behind the drummer pointed towards him, you can see them in the shot. Then
+we added a single pipeline just outside of frame to bring up the exposure of the drummer. Great output
+in such a small light. The final touch was to use a dedo pointed at the bass drum to bring up the 
+exposure of the band logo.
+
+{{< figure src="/img/vos/VoS1.jpg" >}}
 
 
 ## Register the Scaleway node to Docker Cloud
