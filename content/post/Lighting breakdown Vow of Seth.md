@@ -1,7 +1,7 @@
 ---
 date: 2018-07-23
 subtitle: "The Soul Exchange - Vow of Seth"
-title: Lighting Breakdown for a Music Video
+title: Lighting Breakdown - Music Video
 ---
 
 ## The Video
@@ -29,7 +29,7 @@ be our main source and to haze up the rooms for added atmosphere and depth. Unfo
 forbidden by the landlord from any hazing at all. We instead opted for Tiffen Smoque, a filter that is
 supposed to mimic the effect of haze without actually using any. 
 
-{{< figure src="/img/vos/Smoque.jpg" title="[Smoque-filter](https://tiffen.com/diffusion/) in action" >}}
+{{< figure src="/img/vos/Smoque.jpg" title="Smoque-filter in action" >}}
 
 Obviously we didn't get the same 
 depth that real haze gives, but I was surprised by how well it worked giving a sense of haziness in the room. It benefitted us greatly that we had so many light sources pointing straight into the lens making the effect much more pronounced.
@@ -48,7 +48,7 @@ fast.
 * 5 Par cans 1kW
 * 1 Dedolight kit 3x150W
 * 2 1x1 LED-panels Bi-colour
-* 4 3-Foot Pipeline Free
+* 4 4-Foot Pipeline Free
 * Flags and black cloth
 
 ##### Camera
@@ -75,7 +75,7 @@ we added a single pipeline just outside of frame to bring up the exposure of the
 in such a small light. The final touch was to use a dedo pointed at the bass drum to bring up the 
 exposure of the band logo.
 <br>
-We shot him playing the whole song two times, once in a wide shot, something like 25mm and 50mm. I mostly used the Sigma 18-35mm in this videoand eery now and then i used the 50mm. 
+We shot him playing the whole song two times, once in a wide shot, something like 25mm and 50mm. I mostly used the Sigma 18-35mm in this video and every now and then i used the 50mm. For this shot I was in the wheelchair riding towards him and away from him continuously.
 <br>
 {{< figure src="/img/vos/VoS1.jpg" title="Lighting schematic" >}}
 <br>
@@ -95,86 +95,28 @@ a hallway covering several rooms. To give a sense of depth we didn't fully block
 The daylight on the guitarist is from a Litepanel with grid on it to reduce spilling on the back wall. We dimmed down the par can and the dedo to get a very red-orange colour on his neck and face.
 <br>
 {{< figure src="/img/vos/VoS2.jpg" title="Lighting schematic" >}}
+<br>
+This one was also done on two different lenses and in the wheelchair.
 
-Once registered, we need to add our Scaleway node as a Docker node.
-First things first, Docker Cloud requires us to open a
-couple of inbound ports, namely `2375/tcp`, `6783/tcp` and `6783/udp`.
-While we're here, you probably want to add an inbound rule
-for `443/tcp` (you do plan to serve your app over HTTPS, right?).
+## Scene 3 - Rhythm Guitar
+<br>
+{{< figure src="/img/vos/rhythmguitar.jpg" >}}
+<br>
+This was the 2nd to last one we did, each one getting harder and harder to find a variation with the lighting. But I like how this one ended up, the light ray on the wall behind him is a nice touch and
+the wide shot has a different framing than any other shot. We did not use the wheelchair on this scene, instead we had a wide shot and then I went in for some close-ups of the guitar, the guitarist
+and anything else I felt looked interesting.
+<br>
+For the close-ups we added a litepanel with a softbox to fill the hard shadows a bit.
+<br>
+This is also one of the few shots where there are no lights inside the shot. In the wide shot he's only lit with a par can from each side and then we put a dedo on the wall behind him to make it more interesting. 
+{{< figure src="/img/vos/VoS3.jpg" >}}
 
-Once the security group has been configured, go back to Docker
-Cloud and lick the `+` button in the top right and select
-`Bring Your Own Node`. It'll give you a command that we need
-to run on our Scaleway node, so now it's time to ssh onto
-the Scaleway node.
-
-```
-ssh root@your-scaleway-node-ip
-```
-
-Once you've accepted the host key, proceed to run the snippet
-from the Docker Cloud page. If everything works, your Docker Cloud
-page should tell you that the node was successfully registered!
-
-## Sidenote: Multi-stage Docker Builds
-At this point I want to mention that this works particularly
-well if you utilize multi-stage docker builds. They're a new
-feature in Docker `17.05`, so ensure you've selected `17.05`
-as the docker version in your Docker Cloud settings.
-See this `Dockerfile` for an example:
-
-```Docker
-# Build
-FROM golang AS build
-ADD . /go/src/github.com/myrepo/myapp
-ENV CGO_ENABLED=0
-RUN cd /go/src/github.com/myrepo/myapp && go build -o /app
-
-# Production
-FROM scratch
-COPY --from=build /app /app
-EXPOSE 443
-ENTRYPOINT ["/app"]
-```
-
-We use the [official golang image](https://hub.docker.com/_/golang/)
-to build the application, then we just take the static
-binary and stuff it into a minimal container environment.
-Amazingly simple and you end up with a container not much
-larger than the size of the binary itself. Truly we are
-living in the future.
-
-## Setting up the Docker Cloud repository
-We've added Docker Cloud to our GitHub already, so now
-we can go ahead and create a repository from GitHub. I'm assuming
-you've already got your source repo on github so it should
-just be a matter of clicking `Create` and selecting
-the repository to link it to in the settings. It'll
-automatically detect if there is a `Dockerfile` in the root
-of your repository. Otherwise, just select the path to the
-`Dockerfile`. Your new Docker Cloud repository will automatically be configured to build on new merges to master.
-
-## Deploying the app
-Go to the repository page we just created. See that alluring
-`Launch Service` button in the top right? It's time to launch
-our service! Click it and on the next page you'll get a new interface
-allowing you to customize the forwarded ports, volumes, commands
-and many other things. Most significantly, make sure to turn on
-`AUTOREDEPLOY`. This will automatically redeploy your service
-when a new one has been successfully built from your source.
-
-Once you've tweaked the dials and dotted the i's, go ahead and
-click `Create & Deploy`. It'll spin up your new container
-on the Scaleway node we registered earlier. Magic!
-
-## 🍾
-
-Congratulations! You've now got your demo app running in a
-Docker container on your Scaleway node, with automatic
-redeployment triggered straight from your GitHub pushes.
-Lean back in your chair and crack open a cold one, you deserve it!
-
-If you liked this article, or you have anything you'd like to add
-or correct, don't hesitate to reach out to me on twitter
-[@johanbrandhorst](https://twitter.com/JohanBrandhorst) or on
-Gophers Slack under `jbrandhorst`. Thanks for reading!
+## Scene 4 - Bass Guitar
+<br>
+{{< figure src="/img/vos/bass.jpg" >}}
+<br>
+Again, a simple setup but with him being framed by the doorways it makes for a good shot and with some
+variation from the other shots in the video. Par can behind him, straight into the camera, blocked by the bass player giving him a real nice backlight. Again we went for some daylight to fill out the right side of his face and give some colour contrast. And once again we used a BBS Pipeline just 
+outside of frame to give some front light.
+<br>
+{{< figure src="/img/vos/VoS4.jpg" >}}
