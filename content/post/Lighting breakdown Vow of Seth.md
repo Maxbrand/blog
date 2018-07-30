@@ -41,23 +41,24 @@ Since we were going for a dark look but we were shooting during the day, we had 
 
 We wanted to have some camera movement but with our limited time I figured a wheelchair and shoulder mount would be best. This way we could get some movement that was steadier than walking but still move
 fast.
-
-#### So what we ended up using was: <br>
+<br>
+#### So what we ended up using was: 
+<br>
 
 ##### Lighting
 * 5 Par cans 1kW
-* 1 Dedolight kit 3x150W
-* 2 1x1 LED-panels Bi-colour
-* 4 4-Foot Pipeline Free
+* 1 [Dedolight kit 3x150W](http://www.dedolight.com/dedolight/default.php?la=0&pg=0000040003)
+* 2 [Litepanels Astra Bi-colour](http://www.litepanels.com/en-DE/Shop/products/led-lights-astra-1x1-bicolor)
+* 4 [4-Foot Pipeline Raw](https://bbsrentalsupport.com/collections/pipeline-system)
 * Flags and black cloth
-
+<br>
 ##### Camera
-* Red Epic Dragon 6K 
-* Sigma Art-lenses
+* [Red Epic Dragon 6K](http://www.red.com/products/epic-dragon)
+* [Sigma Art-lenses](https://www.sigmaphoto.com/lenses/art)
 * [Tiffen Smoque 2](https://tiffen.com/diffusion/)
 * Tiffen ND-filters
-* Bright Tangerine Misfit Atom
-* DJI Follow Focus
+* [Bright Tangerine Misfit Atom](https://www.brighttangerine.com/misfit-atom/)
+* [DJI Follow Focus](https://www.dji.com/focus)
 * Wheelchair
 
 
@@ -120,3 +121,12 @@ variation from the other shots in the video. Par can behind him, straight into t
 outside of frame to give some front light.
 <br>
 {{< figure src="/img/vos/VoS4.jpg" >}}
+
+## Wrapping up
+
+That's four scenes from the music video, most of the other scenes you can make out the lighting from just looking at the video, the lights are after all in the shots! 
+
+If you have any questions or anything, leave a comment and I'll answer as soon as I can!
+<br>
+<br>
+Max
