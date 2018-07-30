@@ -109,7 +109,7 @@ and anything else I felt looked interesting.
 For the close-ups we added a litepanel with a softbox to fill the hard shadows a bit.
 <br>
 This is also one of the few shots where there are no lights inside the shot. In the wide shot he's only lit with a par can from each side and then we put a dedo on the wall behind him to make it more interesting. 
-{{< figure src="/img/vos/VoS3.jpg" >}}
+{{< figure src="/img/vos/VoS3.jpg" title="Lighting schematic" >}}
 
 ## Scene 4 - Bass Guitar
 <br>
@@ -119,7 +119,7 @@ Again, a simple setup but with him being framed by the doorways it makes for a g
 variation from the other shots in the video. Par can behind him, straight into the camera, blocked by the bass player giving him a real nice backlight. Again we went for some daylight to fill out the right side of his face and give some colour contrast. And once again we used a BBS Pipeline just 
 outside of frame to give some front light.
 <br>
-{{< figure src="/img/vos/VoS4.jpg" >}}
+{{< figure src="/img/vos/VoS4.jpg" title="Lighting schematic" >}}
 
 ## Wrapping up
 
