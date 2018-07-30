@@ -27,7 +27,9 @@ As we had a low budget I and great gaffer [Kamil Janowski](http://www.kjanowski.
 Tungsten as the main lighting would be a good idea. We planned to use the hard light from par cans to 
 be our main source and to haze up the rooms for added atmosphere and depth. Unfortunately we were 
 forbidden by the landlord from any hazing at all. We instead opted for Tiffen Smoque, a filter that is
-supposed to mimic the effect of haze without actually using any. Obviously we didn't get the same 
+supposed to mimic the effect of haze without actually using any. 
+{{< figure src="/img/Smoque.jpg" title="Smoque-filter in action" >}}
+Obviously we didn't get the same 
 depth that real haze gives, but I was surprised by how well it worked giving a sense of haziness in the 
 room. It benefitted us greatly that we had so many light sources pointing straight into the lens making 
 the effect much more pronounced.
@@ -57,7 +59,6 @@ Since we were going for a dark look but we were shooting during the day, we had 
 
 ## Scene 1
 
-{{< figure src="/img/Smoque.jpg" title="Example of how the Smoque-filter works" >}}
 
 ## Register the Scaleway node to Docker Cloud
 Once registered, we need to add our Scaleway node as a Docker node.
