@@ -35,25 +35,29 @@ the effect much more pronounced.
 We also added a dedolight kit for very precise lighting (I'll get to that), a dedolight kit, 2 LED-panels 
 bi-colour and some very versatile 3-foot Pipeline Free from [BB&S] (https://bbsrentalsupport.com/collections/pipeline-system/products/pipeline-free-5600k-1-feet)
 
-Since we were going for a dark look but we were shooting during the day, we had to get some black cloth and flags to block out the sunlight as well.
+Since we were going for a dark look but we were shooting during the day, we had to get some black cloth and flags to block out the sunlight from the windows as well.
 
 #### So what we ended up using was: <br>
+
+##### Lighting
 * 5 Par cans 1kW
 * 1 Dedolight kit 3x150W
 * 2 1x1 LED-panels Bi-colour
 * 4 3-Foot Pipeline Free
 * Flags and black cloth
 
+##### Camera
+* Red Dragon Epic 6K 
+* Sigma Art-lenses
+* Tiffen Smoque 2 
+* Tiffen ND-filters
+* Bright Tangerine Misfit Atom
+* DJI Follow Focus
+
 
 ## Scene 1
-[Register or login](https://cloud.docker.com/) if
-you already have a Docker hub account, and
-navigate to `Cloud Settings`. You'll need to link your GitHub
-(or Bitbucket) account here to enable auto-build and auto-redeployment
-of images. The Docker side of this is entirely free of charge, you don't
-even have to enter a credit card into your account, for that
-ultimate peace of mind that there won't be any nasty surprises
-down the line.
+
+{{< figure src="/static/img/Blog1/Smoque.jpg" title="Example of how the Smoque-filter works" >}}
 
 ## Register the Scaleway node to Docker Cloud
 Once registered, we need to add our Scaleway node as a Docker node.
