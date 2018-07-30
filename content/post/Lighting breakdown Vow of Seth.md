@@ -57,7 +57,7 @@ Since we were going for a dark look but we were shooting during the day, we had 
 
 ## Scene 1
 
-{{< figure src="/static/img/Blog1/Smoque.jpg" title="Example of how the Smoque-filter works" >}}
+{{< figure src="/img/Smoque.jpg" title="Example of how the Smoque-filter works" >}}
 
 ## Register the Scaleway node to Docker Cloud
 Once registered, we need to add our Scaleway node as a Docker node.
