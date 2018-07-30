@@ -51,6 +51,7 @@ fast.
 * 2 [Litepanels Astra Bi-colour](http://www.litepanels.com/en-DE/Shop/products/led-lights-astra-1x1-bicolor)
 * 4 [4-Foot Pipeline Raw](https://bbsrentalsupport.com/collections/pipeline-system)
 * Flags and black cloth
+
 ##### Camera
 * [Red Epic Dragon 6K](http://www.red.com/products/epic-dragon)
 * [Sigma Art-lenses](https://www.sigmaphoto.com/lenses/art)
