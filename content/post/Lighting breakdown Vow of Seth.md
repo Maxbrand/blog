@@ -14,8 +14,8 @@ Take a look and continue reading below when you're finished!
 I've always appreciated reading about how things are actually done behind the scenes, so 
 it seems just right that I would share my own experiences and thoughts when going about a project.
 
-Last autumn I was asked to shoot a music video for the band The Soul Exchange. We didn't have much of a budget
-but we had a cool location and a great but small crew. Directed by Ludvig Gür and produced by Najka Pictures I knew 
+Last autumn I was asked to shoot a music video for the band _The Soul Exchange_. We didn't have much of a budget
+but we had a cool location and a great but small crew. Directed by _Ludvig Gür_ and produced by _Najka Pictures_ I knew 
 that it was going to be a great time. 
 
 We shot the music video over two days. Day 1 was the story part of the video and day 2 was shooting all the band members.
@@ -23,10 +23,10 @@ All of it took part in [Bogesund Castle](https://goo.gl/maps/EKSzBHcfHZw). We us
 to get some variation in the shots.
 
 ## The Gear
-As we had a low budget I and great gaffer [Kamil Janowski](http://www.kjanowski.com/) figured using 
+As we had a low budget I and great gaffer [_Kamil Janowski_](http://www.kjanowski.com/) figured using 
 Tungsten as the main lighting would be a good idea. We planned to use the hard light from par cans to 
 be our main source and to haze up the rooms for added atmosphere and depth. Unfortunately we were 
-forbidden by the landlord from any hazing at all. We instead opted for Tiffen Smoque, a filter that is
+forbidden by the landlord from any hazing at all. We instead opted for [Tiffen Smoque 2](https://tiffen.com/diffusion/), a filter that is
 supposed to mimic the effect of haze without actually using any. 
 
 {{< figure src="/img/vos/Smoque.jpg" title="Smoque-filter in action" >}}
@@ -35,15 +35,16 @@ Obviously we didn't get the same
 depth that real haze gives, but I was surprised by how well it worked giving a sense of haziness in the room. It benefitted us greatly that we had so many light sources pointing straight into the lens making the effect much more pronounced.
 
 We also added a dedolight kit for very precise lighting (I'll get to that), a dedolight kit, 2 LED-panels 
-bi-colour and some very versatile 4-foot Pipeline Raw from [BB&S](https://bbsrentalsupport.com/collections/pipeline-system)
+bi-colour and some very versatile 4-foot Pipeline Raw from [BB&S](https://bbsrentalsupport.com/collections/pipeline-system).
 
 Since we were going for a dark look but we were shooting during the day, we had to get some black cloth and flags to block out the sunlight from the windows as well.
 
 We wanted to have some camera movement but with our limited time I figured a wheelchair and shoulder mount would be best. This way we could get some movement that was steadier than walking but still move
 fast.
+
 <br>
+
 #### So what we ended up using was: 
-<br>
 
 ##### Lighting
 * 5 Par cans 1kW
@@ -83,6 +84,9 @@ We shot him playing the whole song two times, once in a wide shot, something lik
 It was a pretty fast and easy setup, but that's how we had to think thoughout the day since we 
 had so many shots to get in a short amount of time.
 <br>
+{{< figure src="/img/vos/BTS_1.jpg" title="Here you can see the setup quite well">}}
+<br>
+{{< figure src="/img/vos/BTS_2.jpg" title="wheelchair action">}}
 
 
 ## Scene 2 - Lead Guitar
@@ -111,6 +115,10 @@ For the close-ups we added a litepanel with a softbox to fill the hard shadows a
 <br>
 This is also one of the few shots where there are no lights inside the shot. In the wide shot he's only lit with a par can from each side and then we put a dedo on the wall behind him to make it more interesting. 
 {{< figure src="/img/vos/VoS3.jpg" title="Lighting schematic" >}}
+<br>
+{{< figure src="/img/vos/BTS_3.jpg" title="Getting some sweet coverage">}}
+
+
 
 ## Scene 4 - Bass Guitar
 <br>
@@ -125,6 +133,11 @@ outside of frame to give some front light.
 ## Wrapping up
 
 That's four scenes from the music video, most of the other scenes you can make out the lighting from just looking at the video, the lights are after all in the shots! 
+
+Thank you Najka, the band and all the rest for a fun shoot.
+
+{{< figure src="/img/vos/BTS_4.jpg" title="Incidentally you can see how we lit the band-scene in this shot">}}
+
 
 If you have any questions or anything, leave a comment and I'll answer as soon as I can!
 <br>
