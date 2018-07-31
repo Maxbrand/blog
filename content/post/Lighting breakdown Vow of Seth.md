@@ -23,7 +23,7 @@ All of it took part in [Bogesund Castle](https://goo.gl/maps/EKSzBHcfHZw). We us
 to get some variation in the shots.
 
 ## The Gear
-As we had a low budget I and great gaffer [_Kamil Janowski_](http://www.kjanowski.com/) figured using 
+As we had a low budget I and great gaffer [_Kamil Janowski_](http://www.kjanowski.com/) (also BTS-photographer) figured using 
 Tungsten as the main lighting would be a good idea. We planned to use the hard light from par cans to 
 be our main source and to haze up the rooms for added atmosphere and depth. Unfortunately we were 
 forbidden by the landlord from any hazing at all. We instead opted for [Tiffen Smoque 2](https://tiffen.com/diffusion/), a filter that is
