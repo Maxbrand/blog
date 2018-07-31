@@ -86,7 +86,7 @@ had so many shots to get in a short amount of time.
 <br>
 {{< figure src="/img/vos/BTS_1.jpg" title="Here you can see the setup quite well">}}
 <br>
-{{< figure src="/img/vos/BTS_2.jpg" title="wheelchair action">}}
+{{< figure src="/img/vos/BTS_2.jpg" title="Wheelchair action (thank you Sam)">}}
 
 
 ## Scene 2 - Lead Guitar
