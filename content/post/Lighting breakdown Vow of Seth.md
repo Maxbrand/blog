@@ -84,9 +84,9 @@ We shot him playing the whole song two times, once in a wide shot, something lik
 It was a pretty fast and easy setup, but that's how we had to think thoughout the day since we 
 had so many shots to get in a short amount of time.
 <br>
-{{< figure src="/img/vos/BTS_1.jpg" title="Here you can see the setup quite well 📷_Kamil Janowski_)">}}
+{{< figure src="/img/vos/BTS_1.jpg" title="Here you can see the setup quite well 📷Kamil Janowski)">}}
 <br>
-{{< figure src="/img/vos/BTS_2.jpg" title="Wheelchair action (thank you Sam) 📷_Kamil Janowski_">}}
+{{< figure src="/img/vos/BTS_2.jpg" title="Wheelchair action (thank you Sam) 📷Kamil Janowski">}}
 
 
 ## Scene 2 - Lead Guitar
@@ -116,7 +116,7 @@ For the close-ups we added a litepanel with a softbox to fill the hard shadows a
 This is also one of the few shots where there are no lights inside the shot. In the wide shot he's only lit with a par can from each side and then we put a dedo on the wall behind him to make it more interesting. 
 {{< figure src="/img/vos/VoS3.jpg" title="Lighting schematic" >}}
 <br>
-{{< figure src="/img/vos/BTS_3.jpg" title="Getting some sweet coverage 📷_Kamil Janowski_">}}
+{{< figure src="/img/vos/BTS_3.jpg" title="Getting some sweet coverage 📷Kamil Janowski">}}
 
 
 
@@ -136,7 +136,7 @@ That's four scenes from the music video, most of the other scenes you can make o
 
 Thank you Najka, the band and all the rest for a fun shoot.
 
-{{< figure src="/img/vos/BTS_4.jpg" title="Incidentally you can see how we lit the band-scene in this shot 📷_Kamil Janowski_">}}
+{{< figure src="/img/vos/BTS_4.jpg" title="Incidentally you can see how we lit the band-scene in this shot 📷Kamil Janowski">}}
 
 
 If you have any questions or anything, leave a comment and I'll answer as soon as I can!
