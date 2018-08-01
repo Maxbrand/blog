@@ -12,7 +12,7 @@ Take a look and continue reading below when you're finished!
 
 ## Introduction
 I've always appreciated reading about how things are actually done behind the scenes, so 
-it seems just right that I would share my own experiences and thoughts when going about a project.
+it seems just right that I would share my own experiences and thoughts when going about a project. I will do a breakdown of four scenes from the music video and give you my thoughts on how and why we chose to light this way.
 
 Last autumn I was asked to shoot a music video for the band _The Soul Exchange_. We didn't have much of a budget
 but we had a cool location and a great but small crew. Directed by _Ludvig Gür_ and produced by _Najka Pictures_ I knew 
