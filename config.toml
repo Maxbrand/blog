@@ -42,4 +42,8 @@ googleAnalytics = "UA-49575020-2"
 	url = "page/about/"
 	weight = 2
 
+[[menu.main]]
+	name = "Portfolio"
+	url = "https://mbrandhorst.com"
+	weight = 3
 
