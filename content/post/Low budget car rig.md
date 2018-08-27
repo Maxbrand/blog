@@ -4,14 +4,11 @@ title: Low budget car rig - mini-post
 ---
 
 ## First test
-I've been working on a short film together with a couple of actors who are producing it independently out of their pockets, 
-so the budget for this film was really low. We had a scene that took place in a car, cross-cut with a scene in a hospital.
-I wanted to get the scene shot inside the car to be more dynamic than just sitting in the passenger seat and shooting the driver, 
-but we had no budget for a grip nor any gear to make a "real" car rig. So the question was how I could get the camera mounted on the outside of the car 
-shooting towards the driver without any big setup.
-
-I talked to a grip- and lighting reseller in the area about making a car rig on a low budget. I had the idea that if I shoot it on my Panasonic GH5,
-suction cups should be able to hold it steadily. Together with the people at [BBS Rental Support](https://bbsrentalsupport.com/) I put together a small rig with 9.solutions parts. A very simple rig. My original idea was to use my Zhiyun Crane 2 mounted on the car to get a smooth shot. I used two [savior clamps](https://bbsrentalsupport.com/collections/123/products/savior-clamp) screwed in tightly on a [cheese plate](https://bbsrentalsupport.com/products/cheese-plate)
+I've been working on a short film together with a group of actors who are producing it independently, out of their own pockets. 
+This meant that the budget for the film was in the lower (or non-existant) micro budget range, thus limiting my options. We had a scene placed in a car that cross-cut with another scene at a hospital.
+I wanted to get the scene shot inside the car to be something more dynamic than just sitting in the passenger seat and shooting the driver, but since there was no real budget to speak of, getting a grip or any sort of "real" car rig was out of the question.  So I started thinking, how would I get the camera mounted on the outside of the car? And most important, how do I do this with minimum setup?
+I talked to a grip- and lighting reseller in the area, I had the idea that if I shoot it on my Panasonic GH5, a couple of suction cups should be able to hold it steadily.
+Together with the people at [BBS Rental Support](https://bbsrentalsupport.com/) I put together a small rig with 9.solutions parts. A very simple rig. My original idea was to use my Zhiyun Crane 2 mounted on the car to get smooth shots. I used two [savior clamps](https://bbsrentalsupport.com/collections/123/products/savior-clamp) screwed in tightly on a [cheese plate](https://bbsrentalsupport.com/products/cheese-plate)
 which was held in place on the car using three [suction cups](https://bbsrentalsupport.com/products/suction-cup-w-3-8-1-4-cheese-block)
 
 <br>    
@@ -25,23 +22,22 @@ it remotely using my phone.
 
 {{< vimeo 286898334 >}}
 <br>
-No, that panning was not intended. Apparently the gyroscope gets very confused when the car starts to turn, so that didn't work very well. Maybe if it had a GPS built in
-it could combine the data from the gyroscope and the GPS to stabilise on top of a car hood. To be fair, as long as I was going in a straight line the stabilisation worked very well and I could control the gimbal from my phone.
+No, that pan was not intended. Apparently the gyroscope gets somewhat confused when the car starts to turn, so that didn't work. Maybe if it had a GPS built in it could combine the data from the gyroscope and the GPS to stabilise on top of a car hood. 
+To be fair, as long as the car was going in a straight line the stabilisation worked well and I could control the gimbal from my phone.
 
 ## Second test
 Ok, let's get rid of the gimbal and just mount it directly on the cheese plate! 
 <br>
-I could have mounted a tripod head on the cheese plate and then the camera, but I tried to keep it as light as possible and to keep the center of mass low. So I chose to mount the camera directly on top of the cheese plate using a screw. Like so:
+I could have mounted a tripod head on the cheese plate and then the camera, but In an effort to keep it as light as possible, to keep the center of mass low, I chose to mount the camera directly on top of the cheese plate using a screw. Like this:
 
 {{< figure src="/img/car/Rig2.jpg" title="Second iteration - no gimbal" >}}
 
-This is such an incredibly simple setup. A cheese plate mounted to three suction cups using rods and the camera is mounted with a screw and extra support with the rods going around and on top.
+This is a simple setup. A cheese plate mounted to three suction cups using rods and the camera is mounted with a screw and extra support with the rods going around and on top.
 <br>
 {{< vimeo 286902734 >}}
 <br>
-Like expected, the new rig can handle a turn without any issues. It does get bumpy on the uneven road but there's not an awful lot of shaking at least at this low speed. Fortunately the scene in question did not involve any high speed pursuits or racing! I was going to go handheld inside the car anyway, so for this specific scene I knew this solution would work very well and I knew that I could set it up myself in under 10 minutes.
-
-
+Like expected, the new rig can handle a turn without any issue but it does get bumby on uneven roads. Fortunately for us  the scene in question did not involve any high speed pursuits or racing on unpaved roads! So we avoided the worst of the shaking.
+I was going to go handheld inside the car too, so for this specific scene I knew the solution would work well and I knew that I could set it up myself in under 10 minutes.
 ## Final version 
 
 Here's how the final version looked when shooting the scene. 
@@ -59,5 +55,4 @@ And a short clip of the shot. The film is not released yet, so can't give you to
 <br>
 {{< vimeo 286907857 >}}
 
-
-Of course, only do something like this on a road that you can control. We don't want anybody to cause an accident because of a camera falling of a car!
+Of course, If you want to imitate this, make sure it's on a road you can control, we don't want any accidents caused by a flying camera or a damaged car.
