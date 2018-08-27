@@ -10,8 +10,7 @@ I wanted to get the scene inside the car to be something more dynamic than just 
 I talked to a grip- and lighting reseller in the area, I had the idea that if I shoot it on my Panasonic GH5, a couple of suction cups should be able to hold it steadily.
 Together with the people at [BBS Rental Support](https://bbsrentalsupport.com/) I put together a small rig with 9.solutions parts. A very simple rig. My original idea was to use my Zhiyun Crane 2 mounted on the car to get smooth shots. I used two [savior clamps](https://bbsrentalsupport.com/collections/123/products/savior-clamp) screwed in tightly on a [cheese plate](https://bbsrentalsupport.com/products/cheese-plate)
 which was held in place on the car using three [suction cups](https://bbsrentalsupport.com/products/suction-cup-w-3-8-1-4-cheese-block)
-
-<br>    
+   
 {{< figure src="/img/car/Original_rig.jpg" title="Original rig with Zhiyun Crane 2" >}}
 
 The advantage with using the gimbal is that it automatically keeps the horizon level and panning and tilting is very easily controlled with a joystick. I could even do
