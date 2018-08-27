@@ -5,7 +5,7 @@ title: Low budget car rig - mini-post
 
 ## First test
 I've been working on a short film together with a couple of actors who are producing it independently out of their pockets, 
-so the budget for this film was really low. We had a scene that took part in a car and cross-cutting with a scene in a hospital.
+so the budget for this film was really low. We had a scene that took place in a car, cross-cut with a scene in a hospital.
 I wanted to get the scene shot inside the car to be more dynamic than just sitting in the passenger seat and shooting the driver, 
 but we had no budget for a grip nor any gear to make a "real" car rig. So the question was how I could get the camera mounted on the outside of the car 
 shooting towards the driver without any big setup.
@@ -17,7 +17,7 @@ which was held in place on the car using three [suction cups](https://bbsrentals
 <br>    
 {{< figure src="/img/car/Original_rig.jpg" title="Original rig with Zhiyun Crane 2" >}}
 
-The advantage with using the gimbal is that it keeps the horizon level automatically and panning and tilting is very easily controlled with a joystick. I could even do
+The advantage with using the gimbal is that it automatically keeps the horizon level and panning and tilting is very easily controlled with a joystick. I could even do
 it remotely using my phone.
 <br>
 <br>
@@ -39,7 +39,7 @@ This is such an incredibly simple setup. A cheese plate mounted to three suction
 <br>
 {{< vimeo 286902734 >}}
 <br>
-Like expected, the new rig can handle a turn without any issues. It does get bumby in the uneven road but there's not an awful lot of shaking at least at this low speed. Fortunately the scene in question did not involve any high speed pursuits or racing! I was going to go handheld inside the car anyway, so for this specific scene I knew this solution would work very well and I knew that I could set it up myself in under 10 minutes.
+Like expected, the new rig can handle a turn without any issues. It does get bumpy on the uneven road but there's not an awful lot of shaking at least at this low speed. Fortunately the scene in question did not involve any high speed pursuits or racing! I was going to go handheld inside the car anyway, so for this specific scene I knew this solution would work very well and I knew that I could set it up myself in under 10 minutes.
 
 
 ## Final version 
