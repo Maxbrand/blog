@@ -1,7 +1,7 @@
 ---
 date: 2018-07-23
 subtitle: "The Soul Exchange - Vow of Seth"
-title: Lighting Breakdown - Music Video
+title: Lighting breakdown - music video
 ---
 
 ## The Video
