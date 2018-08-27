@@ -5,8 +5,8 @@ title: Low budget car rig - mini-post
 
 ## First test
 I've been working on a short film together with a group of actors who are producing it independently, out of their own pockets. 
-This meant that the budget for the film was in the lower (or non-existant) micro budget range, thus limiting my options. We had a scene placed in a car that cross-cut with another scene at a hospital.
-I wanted to get the scene shot inside the car to be something more dynamic than just sitting in the passenger seat and shooting the driver, but since there was no real budget to speak of, getting a grip or any sort of "real" car rig was out of the question.  So I started thinking, how would I get the camera mounted on the outside of the car? And most important, how do I do this with minimum setup?
+This means that the budget for the film was in the lower (or non-existent) micro budget range. We had a scene taking place in a car that cross-cut with another scene at a hospital.
+I wanted to get the scene inside the car to be something more dynamic than just sitting in the passenger seat and shooting the driver, but since there was no real budget to speak of, getting a grip or any sort of "real" car rig was out of the question. So I started thinking, how would I get the camera mounted on the outside of the car? And most important, how do I do this with minimum setup?
 I talked to a grip- and lighting reseller in the area, I had the idea that if I shoot it on my Panasonic GH5, a couple of suction cups should be able to hold it steadily.
 Together with the people at [BBS Rental Support](https://bbsrentalsupport.com/) I put together a small rig with 9.solutions parts. A very simple rig. My original idea was to use my Zhiyun Crane 2 mounted on the car to get smooth shots. I used two [savior clamps](https://bbsrentalsupport.com/collections/123/products/savior-clamp) screwed in tightly on a [cheese plate](https://bbsrentalsupport.com/products/cheese-plate)
 which was held in place on the car using three [suction cups](https://bbsrentalsupport.com/products/suction-cup-w-3-8-1-4-cheese-block)
@@ -36,8 +36,8 @@ This is a simple setup. A cheese plate mounted to three suction cups using rods 
 <br>
 {{< vimeo 286902734 >}}
 <br>
-Like expected, the new rig can handle a turn without any issue but it does get bumby on uneven roads. Fortunately for us  the scene in question did not involve any high speed pursuits or racing on unpaved roads! So we avoided the worst of the shaking.
-I was going to go handheld inside the car too, so for this specific scene I knew the solution would work well and I knew that I could set it up myself in under 10 minutes.
+Like expected, the new rig can handle a turn without any issue but it does get bumpy on uneven roads. Fortunately for us  the scene in question did not involve any high speed pursuits or racing on unpaved roads! So we avoided the worst of the shaking.
+I was going to go handheld inside the car as well, so for this specific scene I knew the solution would work well and I knew that I could set it up myself in under 10 minutes.
 ## Final version 
 
 Here's how the final version looked when shooting the scene. 
@@ -55,4 +55,4 @@ And a short clip of the shot. The film is not released yet, so can't give you to
 <br>
 {{< vimeo 286907857 >}}
 
-Of course, If you want to imitate this, make sure it's on a road you can control, we don't want any accidents caused by a flying camera or a damaged car.
+Of course, If you want to imitate this, make sure it's on a road you can control, we don't want any accidents caused by a camera flying of your car on a road in operation.. 
