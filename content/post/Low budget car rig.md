@@ -9,9 +9,9 @@ This means that the budget for the film was in the lower (or non-existent) micro
 I wanted to get the scene inside the car to be something more dynamic than just sitting in the passenger seat and shooting the driver, but since there was no real budget to speak of, getting a grip or any sort of "real" car rig was out of the question. So I started thinking, how would I get the camera mounted on the outside of the car? And most important, how do I do this with minimum setup?
 I talked to a grip- and lighting reseller in the area, I had the idea that if I shoot it on my Panasonic GH5, a couple of suction cups should be able to hold it steadily.
 Together with the people at [BBS Rental Support](https://bbsrentalsupport.com/) I put together a small rig with 9.solutions parts. A very simple rig. My original idea was to use my [Zhiyun Crane 2](https://www.zhiyun-tech.com/crane2) mounted on the car to get smooth shots. I used: <br>
-* 2 [savior clamps](https://bbsrentalsupport.com/collections/123/products/savior-clamp) 
-* 1 [cheese plate](https://bbsrentalsupport.com/products/cheese-plate)
-* 3 [suction cups](https://bbsrentalsupport.com/products/suction-cup-w-3-8-1-4-cheese-block)
+* 2 [savior clamps](https://bbsrentalsupport.com/collections/123/products/savior-clamp) <br>
+* 1 [cheese plate](https://bbsrentalsupport.com/products/cheese-plate) <br>
+* 3 [suction cups](https://bbsrentalsupport.com/products/suction-cup-w-3-8-1-4-cheese-block) <br>
 <br>
 
    
