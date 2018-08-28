@@ -8,8 +8,12 @@ I've been working on a short film together with a group of actors who are produc
 This means that the budget for the film was in the lower (or non-existent) micro budget range. We had a scene taking place in a car that cross-cut with another scene at a hospital.
 I wanted to get the scene inside the car to be something more dynamic than just sitting in the passenger seat and shooting the driver, but since there was no real budget to speak of, getting a grip or any sort of "real" car rig was out of the question. So I started thinking, how would I get the camera mounted on the outside of the car? And most important, how do I do this with minimum setup?
 I talked to a grip- and lighting reseller in the area, I had the idea that if I shoot it on my Panasonic GH5, a couple of suction cups should be able to hold it steadily.
-Together with the people at [BBS Rental Support](https://bbsrentalsupport.com/) I put together a small rig with 9.solutions parts. A very simple rig. My original idea was to use my Zhiyun Crane 2 mounted on the car to get smooth shots. I used two [savior clamps](https://bbsrentalsupport.com/collections/123/products/savior-clamp) screwed in tightly on a [cheese plate](https://bbsrentalsupport.com/products/cheese-plate)
-which was held in place on the car using three [suction cups](https://bbsrentalsupport.com/products/suction-cup-w-3-8-1-4-cheese-block)
+Together with the people at [BBS Rental Support](https://bbsrentalsupport.com/) I put together a small rig with 9.solutions parts. A very simple rig. My original idea was to use my [Zhiyun Crane 2](https://www.zhiyun-tech.com/crane2) mounted on the car to get smooth shots. I used: <br>
+* 2 [savior clamps](https://bbsrentalsupport.com/collections/123/products/savior-clamp) 
+* 1 [cheese plate](https://bbsrentalsupport.com/products/cheese-plate)
+* 3 [suction cups](https://bbsrentalsupport.com/products/suction-cup-w-3-8-1-4-cheese-block)
+<br>
+
    
 {{< figure src="/img/car/Original_rig.jpg" title="Original rig with Zhiyun Crane 2" >}}
 
