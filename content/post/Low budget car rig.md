@@ -21,10 +21,10 @@ And that's it. A very simple solution to get a firm mount on a car hood.
 {{< figure src="/img/car/Original_rig.jpg" title="Original rig with Zhiyun Crane 2" >}}
 
 My original idea was to use my [Zhiyun Crane 2](https://www.zhiyun-tech.com/crane2) mounted on the car to get smooth shots. The advantage with using the gimbal is that it automatically keeps the horizon level and panning and tilting is very easily controlled with a joystick. I could even do it remotely using my phone.
+<br>
 {{< figure src="/img/car/Onhood.jpg" title="Mounted for initial test" >}}
 
-<br>
-<br>
+
 #### Here's a short clip showing how well this worked:
 
 {{< vimeo 286898334 >}}
