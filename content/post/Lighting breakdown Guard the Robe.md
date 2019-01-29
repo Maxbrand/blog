@@ -8,6 +8,7 @@ title: "Lighting breakdown - Guard the Robe"
 I usually want to show the final result before I get into the breakdown, unfortunately this time I cannot show it freely on the internet yet. I've added some stills instead so you can at least get a feeling of what the result was!
 
 {{< figure src="/img/gtr/1.jpg" >}}
+<br>
 {{< figure src="/img/gtr/2.jpg" >}}
 
 ## Introduction
