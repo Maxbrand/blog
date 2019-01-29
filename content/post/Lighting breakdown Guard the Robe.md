@@ -1,7 +1,7 @@
 ---
 date: 2019-02-01
-subtitle: "Guard the Robe"
-title: "Lighting breakdown - Shortfilm"
+subtitle: "Short film breakdown"
+title: "Lighting breakdown - Guard the Robe"
 ---
 
 ## The Video
