@@ -13,7 +13,7 @@ I usually want to show the final result before I get into the breakdown, unfortu
 
 ## Introduction
 
-Last year I shot a short about identity directed by _Victor Von Schirach_. We shot the whole thing in one night as it was all set in two rooms in one apartment and it was a short script. 
+Last year I shot a short about identity directed by [_Victor Von Schirach_](https://www.victorvonschirach.com/). We shot the whole thing in one night as it was all set in two rooms in one apartment and it was a short script. 
 
 I'm going to break down a couple of shots here and show how I lit them and where I placed the camera. The focus will mostly be on the lighting. 
 
@@ -54,7 +54,7 @@ We added some side light to ease up the shadows in his face and to make it feel 
 
 ## Shot 2 - Reverse shot
 <br>
-{{< figure src="/img/vos/leadguitar.jpg" >}}
+{{< figure src="/img/gtr/2.jpg" >}}
 <br>
 For this one we added a bit of daylight to give some colour contrast with the tungsten coming from
 the side. We had a bit more work to do in blocking the daylight in this shot since it was shot across
