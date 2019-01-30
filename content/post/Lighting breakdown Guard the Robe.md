@@ -4,7 +4,7 @@ subtitle: "Short film breakdown"
 title: "Lighting breakdown - Guard the Robe"
 ---
 
-## The Video
+## Final Result
 I usually want to show the final result before I get into the breakdown, unfortunately this time I cannot show it freely on the internet yet. I've added some stills instead so you can at least get a feeling of what the result was!
 
 {{< figure src="/img/gtr/1.jpg" >}}
@@ -23,14 +23,17 @@ As we were working in two quite small rooms and didn't have a lot of time I deci
 {{< figure src="/img/gtr/pipeline.jpg" title="BB&S Pipeline" >}}
 
 Since we were going for a dark look but we were shooting during the day, we had to get some black cloth and flags to block out the sunlight from the windows as well.
+
+So this shoot ended up being quite a simple setup with not that many lights involved.
 <br>
 
 #### Gear list: 
 
 ##### Lighting
-* 2 [Area 48 + snapbag and](https://bbsrentalsupport.com/collections/area-48)
+* 2 [Area 48 + snapbag and grid](https://bbsrentalsupport.com/collections/area-48)
 * 4 [4-Foot Pipeline Raw](https://bbsrentalsupport.com/collections/pipeline-system)
 * Flags and black cloth
+* Practicals!
 
 ##### Camera
 * [Red Epic-W 8K](http://www.red.com/products/epic-dragon)
@@ -42,7 +45,9 @@ Since we were going for a dark look but we were shooting during the day, we had 
 <br>
 {{< figure src="/img/gtr/1.jpg" >}}
 
-My focus in this scene was keeping the general ambiance in the room low and to focus the eye towards our main character. To do this the key light in this shot was an Area 48 with grid on it directly from above. This gave a nice top light on the talent while keeping light from spilling on the wall behind him.
+Our first shot was this shot of the main character sitting in a bathtub.
+
+My focus in this shot was keeping the general ambiance in the room low and to focus the eye towards our main character. To do this the key light in this shot was an Area 48 with grid on it directly from above. This gave a nice top light on the talent while keeping light from spilling on the wall behind him. I white balanced the camera at somewhere around 5000k and all lights were around 3200k, in order to give this nice warm look.
 <br>
 {{< figure src="/img/gtr/before.jpg" >}}
 <br>
@@ -51,24 +56,29 @@ As you can see in this photo, the walls are actually quite bright, so reducing t
 We added some side light to ease up the shadows in his face and to make it feel like the light is coming from the practical on the right. It was a simple 4Ft Pipeline that we also flagged off from the wall.
 <br>
 {{< figure src="/img/gtr/pipeline2.jpg" >}}
+<br>
+
+Here's a shot designer diagram showing how it was lit. The green is this setup. The red show's what lights were used on the reverse shot.
+<br>
+{{< figure src="/img/gtr/shotdesigner.jpg" >}}
+<br>
 
 ## Shot 2 - Reverse shot
 <br>
 {{< figure src="/img/gtr/2.jpg" >}}
 <br>
-For this one we added a bit of daylight to give some colour contrast with the tungsten coming from
-the side. We had a bit more work to do in blocking the daylight in this shot since it was shot across
-a hallway covering several rooms. To give a sense of depth we didn't fully block one of the windows so we had some light hitting the wall just in front of the guitarist. 
+For the reverse shot the only other character in the film comes in and out of the room talking to the main character as she does so.
 <br>
-The daylight on the guitarist is from a Litepanel with grid on it to reduce spilling on the back wall. We dimmed down the par can and the dedo to get a very red-orange colour on his neck and face.
+She was preparing to go to a banquet of some sort or an upscale party, so I wanted to make her kind of radiate when she came in to the room. Putting an Area 48 above her just outside of frame with a snapbag and 1/2 grid cloth on gave her a great glow that really makes her shine. 
 <br>
-{{< figure src="/img/vos/VoS2.jpg" title="Lighting schematic" >}}
+We also added a pipeline in the room behind her to bring in some ambiance for the room and turned on the ceiling lamp. I might have added 1/2 CTO to it, I don't remember but it does look a bit warmer than 3200k.
 <br>
-This one was also done on two different lenses and in the wheelchair.
-
-## Scene 3 - Rhythm Guitar
+Not a very complex setup, but I think it works well and when you're doing the whole film in one evening you can't spend too long on each shot.
 <br>
-{{< figure src="/img/vos/rhythmguitar.jpg" >}}
+{{< figure src="/img/gtr/shotdesigner.jpg" title="The red colour shows the lights used">}}
+## Shot 3 - Bed time
+<br>
+{{< figure src="/img/gtr/3.jpg" >}}
 <br>
 This was the 2nd to last one we did, each one getting harder and harder to find a variation with the lighting. But I like how this one ended up, the light ray on the wall behind him is a nice touch and
 the wide shot has a different framing than any other shot. We did not use the wheelchair on this scene, instead we had a wide shot and then I went in for some close-ups of the guitar, the guitarist
