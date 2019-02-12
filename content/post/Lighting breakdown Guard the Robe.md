@@ -15,7 +15,7 @@ I usually want to show the final result before I get into the breakdown, unfortu
 
 Last year I shot a short about identity directed by [_Victor Von Schirach_](https://www.victorvonschirach.com/). We shot the whole thing in one night as it was all set in two rooms in one apartment and it was a short script. 
 
-I'm going to break down a couple of shots here and show how I lit them and where I placed the camera. The focus will mostly be on the lighting. 
+I'm going to break down a two shots here and show how I lit them and where I placed the camera. The focus will mostly be on the lighting. This scene was mostly covered in a shot-reverse shot fashion with some inserts that I didn't do any major relighting for, so by the end of this post you should be able to copy the work I did without issues.
 
 ## The Gear
 As we were working in two quite small rooms and didn't have a lot of time I decided that we would use mainly [BB&S Pipelines](https://bbsrentalsupport.com/collections/pipeline-system) as they are fast and easy to work with and are easy to hide. 
@@ -76,7 +76,7 @@ We also added a pipeline in the room behind her to bring in some ambiance for th
 Not a very complex setup, but I think it works well and when you're doing the whole film in one evening you can't spend too long on each shot.
 <br>
 {{< figure src="/img/gtr/shotdesigner.jpg" title="The red colour shows the lights used">}}
-## Shot 3 - Bed time
+<!--## Shot 3 - Bed time
 <br>
 {{< figure src="/img/gtr/3.jpg" >}}
 <br>
@@ -89,30 +89,15 @@ For the close-ups we added a litepanel with a softbox to fill the hard shadows a
 This is also one of the few shots where there are no lights inside the shot. In the wide shot he's only lit with a par can from each side and then we put a dedo on the wall behind him to make it more interesting. 
 {{< figure src="/img/vos/VoS3.jpg" title="Lighting schematic" >}}
 <br>
-{{< figure src="/img/vos/BTS_3.jpg" title="Getting some sweet coverage 📷Kamil Janowski">}}
+{{< figure src="/img/vos/BTS_3.jpg" title="Getting some sweet coverage 📷Kamil Janowski">}} -->
 
-
-
-## Scene 4 - Bass Guitar
-<br>
-{{< figure src="/img/vos/bass.jpg" >}}
-<br>
-Again, a simple setup but with him being framed by the doorways it makes for a good shot and with some
-variation from the other shots in the video. Par can behind him, straight into the camera, blocked by the bass player giving him a real nice backlight. Again we went for some daylight to fill out the right side of his face and give some colour contrast. And once again we used a BBS Pipeline just 
-outside of frame to give some front light.
-<br>
-{{< figure src="/img/vos/VoS4.jpg" title="Lighting schematic" >}}
 
 ## Wrapping up
 
-That's four scenes from the music video, most of the other scenes you can make out the lighting from just looking at the video, the lights are after all in the shots! 
+That's a quick look at how to do a simple setup in a cramped room. I hope you enjoyed it and if you have any questions or anything, leave a comment and I'll answer as soon as I can!
+<br>
+Thank you Victor, the rest of the crew, the cast and all the rest for a fun shoot.
 
-Thank you Najka, the band and all the rest for a fun shoot.
-
-{{< figure src="/img/vos/BTS_4.jpg" title="Incidentally you can see how we lit the band-scene in this shot 📷Kamil Janowski">}}
-
-
-If you have any questions or anything, leave a comment and I'll answer as soon as I can!
 <br>
 <br>
 Max
