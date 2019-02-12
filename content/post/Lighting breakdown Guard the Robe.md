@@ -15,26 +15,26 @@ I usually want to show the final result before I get into the breakdown, unfortu
 
 Last year I shot a short about identity directed by [_Victor Von Schirach_](https://www.victorvonschirach.com/). We shot the whole thing in one night as it was all set in two rooms in one apartment and it was a short script. 
 
-I'm going to break down a two shots here and show how I lit them and where I placed the camera. The focus will mostly be on the lighting. This scene was mostly covered in a shot-reverse shot fashion with some inserts that I didn't do any major relighting for, so by the end of this post you should be able to copy the work I did without issues.
+I'm going to break down two shots here and show how I lit them and where I placed the camera. The focus will mostly be on the lighting. This scene was mostly covered in a shot-reverse shot fashion with some inserts that I didn't do any major relighting for, so by the end of this post you should be able to copy the work I did without issues.
 
 ## The Gear
 As we were working in two quite small rooms and didn't have a lot of time I decided that we would use mainly [BB&S Pipelines](https://bbsrentalsupport.com/collections/pipeline-system) as they are fast and easy to work with and are easy to hide. 
 
 {{< figure src="/img/gtr/pipeline.jpg" title="BB&S Pipeline" >}}
 
-Since we were going for a dark look but we were shooting during the day, we had to get some black cloth and flags to block out the sunlight from the windows as well.
+Since we were going for a night time look but we were shooting during the day, we had to get some black cloth and flags to block out the sunlight from the windows as well.
 
 So this shoot ended up being quite a simple setup with not that many lights involved.
 <br>
-
+<br>
 #### Gear list: 
-
+<br>
 ##### Lighting
 * 2 [Area 48 + snapbag and grid](https://bbsrentalsupport.com/collections/area-48)
 * 4 [4-Foot Pipeline Raw](https://bbsrentalsupport.com/collections/pipeline-system)
 * Flags and black cloth
 * Practicals!
-
+<br>
 ##### Camera
 * [Red Epic-W 8K](http://www.red.com/products/epic-dragon)
 * [Zeiss CP.2 lenses](https://www.zeiss.com/camera-lenses/us/cinematography/products/compact-prime-cp2-lenses.html)
@@ -58,7 +58,7 @@ We added some side light to ease up the shadows in his face and to make it feel 
 {{< figure src="/img/gtr/pipeline2.jpg" >}}
 <br>
 
-Here's a shot designer diagram showing how it was lit. The green is this setup. The red show's what lights were used on the reverse shot.
+Here's a shot designer diagram showing how it was lit. The green coloured lights are used in this setup. The red colour show what lights were used on the reverse shot.
 <br>
 {{< figure src="/img/gtr/shotdesigner.jpg" >}}
 <br>
