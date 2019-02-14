@@ -52,15 +52,14 @@ Our first shot was of the main character sitting in a bathtub.
 My focus in this shot was keeping the general ambiance in the room low and to focus the eye towards our main character. To do this, I used an Area 48 with grid on it as the key light, positioned from directly above. 
 This gave a nice top light on the talent while keeping light spilling on the wall behind him to a minimum. I white balanced the camera somewhere around 5000k and all lights were around 3200k, to give this nice warm look.
 <br>
+We added some side light to ease up the shadows on his face and to make it seem like the light is coming from the practical on the right. It was a simple 4Ft Pipeline that we flagged off from the wall and dimmed down a bit.
+<br>
 {{< figure src="/img/gtr/before.jpg" >}}
 <br>
 As you can see in this photo, the walls are actually quite bright, so reducing the luminance of the walls really adds to giving it a dark ambiance and really pulling our talent out from the background giving the shot some much needed depth. 
 <br>
-We added some side light to ease up the shadows on his face and to make it seem like the light is coming from the practical on the right. It was a simple 4Ft Pipeline that we flagged off from the wall and dimmed down a bit.
-<br>
 {{< figure src="/img/gtr/pipeline2.jpg" >}}
 <br>
-
 Here's a shot designer diagram showing how it was lit. The green coloured lights are used in this setup. The red colour show what lights were used on the reverse shot.
 <br>
 {{< figure src="/img/gtr/shotdesigner.jpg" title="The green colour shows the lights used in this shot" >}}
