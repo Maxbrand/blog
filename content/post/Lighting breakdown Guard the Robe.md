@@ -28,16 +28,16 @@ The first thing we did, since we were going the night time look, was to block ou
 
 
 <br>
+### Gear list: 
 <br>
-#### Gear list: 
-<br>
-##### Lighting
+#### Lighting
 * 2 [Area 48 + snapbag and grid](https://bbsrentalsupport.com/collections/area-48)
 * 4 [4-Foot Pipeline Raw](https://bbsrentalsupport.com/collections/pipeline-system)
 * Flags and black cloth
 * Practicals!
 <br>
-##### Camera
+#### Camera
+<br>
 * [Red Epic-W 8K](http://www.red.com/products/epic-dragon)
 * [Zeiss CP.2 lenses](https://www.zeiss.com/camera-lenses/us/cinematography/products/compact-prime-cp2-lenses.html)
 * Tiffen ND-filters
@@ -63,7 +63,7 @@ We added some side light to ease up the shadows on his face and to make it seem 
 
 Here's a shot designer diagram showing how it was lit. The green coloured lights are used in this setup. The red colour show what lights were used on the reverse shot.
 <br>
-{{< figure src="/img/gtr/shotdesigner.jpg" >}}
+{{< figure src="/img/gtr/shotdesigner.jpg" title="The green colour shows the lights used in this shot" >}}
 <br>
 
 ## Shot 2 - Reverse shot
