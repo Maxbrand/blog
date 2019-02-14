@@ -27,17 +27,17 @@ As we were in two smaller rooms and on a tight schedule, I decided that we would
 The first thing we did, since we were going the night time look, was to block out the sunlight from the windows. So we covered them with some black cloth and flags.
 
 
-<br>
+
 ### Gear list: 
-<br>
+
 #### Lighting
 * 2 [Area 48 + snapbag and grid](https://bbsrentalsupport.com/collections/area-48)
 * 4 [4-Foot Pipeline Raw](https://bbsrentalsupport.com/collections/pipeline-system)
 * Flags and black cloth
 * Practicals!
-<br>
+
+
 #### Camera
-<br>
 * [Red Epic-W 8K](http://www.red.com/products/epic-dragon)
 * [Zeiss CP.2 lenses](https://www.zeiss.com/camera-lenses/us/cinematography/products/compact-prime-cp2-lenses.html)
 * Tiffen ND-filters
