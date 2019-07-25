@@ -12,8 +12,13 @@ Before we get into the details, take a look at the finished result below! Becaus
 ## Introduction
 I was asked by Najka Pictures to shoot a commercial for a new app called Togee. The finished film would be used to bring in investors. 
 
+<<<<<<< HEAD
 Most of the film was going to take place outdoors and one of the main goals was to give a joyous feeling about the app. Kind of like a Coca Cola-commercial but we also had to show what functions the app had. 
 
+=======
+Most of the film was going to take place outdoors and one of the main goals was to give a joyous feeling about the app. Kind of like a Coca Cola-commercial but we also had to show what functions the app had. 
+
+>>>>>>> 3cfb5d54f9310f22df0fa3da35c36437bdd9904b
 To achieve this happy feeling I wanted it to be bright, backlit and vibrant. With these principles in place, we set out for pre-production.
 
 ## Planning
