@@ -1,13 +1,13 @@
 ---
-date: 2019-08-23
+date: 2019-07-29
 subtitle: "Case study of a low-budget commercial"
 title: Creating a high-end look with no lights
 ---
 
 ## The Video
-Before we get into the details, take a look at the finished result below! Because of different reasons I had to edit out large parts of the video, so it is very fractured.
+Before we get into the details, take a look at the finished result below! Because of different reasons I had to censor  large parts of the video, so it is very fractured.
 
-{{< vimeo 253673229 >}}
+{{< vimeo 350680232 >}}
 
 ## Introduction
 I was asked by Najka Pictures to shoot a commercial for a new app called Togee. The finished film would be used to bring in investors. 
