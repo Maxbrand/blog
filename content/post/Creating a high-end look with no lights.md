@@ -1,5 +1,5 @@
 ---
-date: 2019-07-23
+date: 2019-08-23
 subtitle: "Case study of a low-budget commercial"
 title: Creating a high-end look with no lights
 ---
