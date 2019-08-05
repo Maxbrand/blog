@@ -41,7 +41,8 @@ The first thing we did, since we were going the night time look, was to block ou
 * [Red Epic-W 8K](http://www.red.com/products/epic-dragon)
 * [Zeiss CP.2 lenses](https://www.zeiss.com/camera-lenses/us/cinematography/products/compact-prime-cp2-lenses.html)
 * Tiffen ND-filters
-
+  
+Thank you [Chirano](https://www.chirano.se/) for loaning us lenses and camera!
 
 ## Shot 1 - Bathtub
 <br>
