@@ -1,5 +1,5 @@
 ---
-date: 2010-09-13
+date: 2019-09-13
 subtitle: "Short film"
 title: "Building a photo booth-set"
 ---
