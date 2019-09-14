@@ -54,7 +54,7 @@ For one thing the sound would be better if we could place soft materials like bl
 
 Now that we knew the dimensions of the build, all we had to work out was the details. 
 
-When we looked at real photo booths we found that many of them had a screen behind them that lit up when the photos were taken in order to get a white background. We made a 70x70cm acrylic glass area on the wall behind our actors and put a big led light about a meter away from it in order to achieve this effect in our booth.
+When we looked at real photo booths we found that many of them had a screen behind them that lit up when the photos were taken in order to get a white background. We made a 70x70cm acrylic glass area on the wall behind our actors and put a big led light about a meter away from it in order to achieve this effect.
 
 
 {{< figure src="/img/image/5.jpg" title="Here you can see the lit up screen on the back wall. And in front of it - me!" >}}
