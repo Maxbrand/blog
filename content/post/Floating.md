@@ -10,7 +10,7 @@ title: "Getting the most out of a white backdrop"
 
 ## Introduction
 
-Earlier this year I shot a music video with director (Joakim Gustafsson)[https://joakimg.com/] and musician Kris Lempiäinen. Kris plays all of the instrument in his song so we wanted to make the concept of the music video based on that. 
+Earlier this year I shot a music video with director [Joakim Gustafsson](https://joakimg.com/) and musician Kris Lempiäinen. Kris plays all of the instrument in his song so we wanted to make the concept of the music video based on that. 
 
 The concept we came up with was quite simple but I am also very happy with the result, and our method for doing it was a little different than what you would assume looking at the video. Just like with all the previous posts in this blog we had a very low budget, so we could not afford coloured backdrops. But the whole concept was that we wanted a different colour for each instrument. The question was, how do we achieve this vision without the budget for buying the backdrops?
 
@@ -20,7 +20,7 @@ So, we have 5 instruments and we want 5 different coloured backdrops. You're thi
 
 {{< figure src="/img/image/1.jpg" title="The power of combining coloured lights with a big white paper" >}}
 
-As you can see in this picture it actually works really well, better than I would have hoped. All I had to do was take two (Area 48 colour)[https://www.bbslighting.com/products/area-48-color], put on grids to keep it from spilling on Kris or the instruments and we were set! An added benefit of this technique was that changing colour of the backdrop was super fast, just change the colour of the lights and in seconds your yellow backdrop is green.
+As you can see in this picture it actually works really well, better than I would have hoped. All I had to do was take two [Area 48 colour](https://www.bbslighting.com/products/area-48-color), put on grids to keep it from spilling on Kris or the instruments and we were set! An added benefit of this technique was that changing colour of the backdrop was super fast, just change the colour of the lights and in seconds your yellow backdrop is green.
 
 ## Takeaways
 
@@ -30,14 +30,14 @@ As happy as I am with the results, there was one major downside. When all the co
 
 What this meant was that front-lighting would be more or less impossible. Any source that was coming from in front would have to be coming from up high or down low and pointed away from the backdrop. 
 
-What I went with was using two (Area 48 colour)[https://www.bbslighting.com/products/area-48-color] with grids as back/rim lights and coming from above I used a (pipeline reflect)[https://www.bbslighting.com/collections/pipeline-reflect-system/pipeline-reflect-system].
+What I went with was using two [Area 48 colour](https://www.bbslighting.com/products/area-48-color) with grids as back/rim lights and coming from above I used a (pipeline reflect)(https://www.bbslighting.com/collections/pipeline-reflect-system/pipeline-reflect-system).
 
 {{< figure src="/img/image/3.jpg" title="Silhouette. Only the coloured LEDs on the backdrop turned on" >}}
 {{< figure src="/img/image/4.jpg" >}}
 
 {{< figure src="/img/image/5.jpg" >}}
 
-Here you can see the whole setup, if you look closely you can see that some of the colour is fading towards the edges of the backdrop. I evened all of the backdrop out in post using (DaVinci Resolve)[https://www.blackmagicdesign.com/products/davinciresolve]. 
+Here you can see the whole setup, if you look closely you can see that some of the colour is fading towards the edges of the backdrop. I evened all of the backdrop out in post using [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve). 
 
 {{< figure src="/img/image/6.jpg"
 
