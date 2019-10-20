@@ -1,5 +1,5 @@
 ---
-date: 2018-10-20
+date: 2019-10-20
 subtitle: "Music Video"
 title: "Getting the most out of a white backdrop"
 ---
@@ -12,7 +12,7 @@ title: "Getting the most out of a white backdrop"
 
 Earlier this year I shot a music video with director [Joakim Gustafsson](https://joakimg.com/) and musician Kris Lempiäinen. Kris plays all of the instrument in his song so we wanted to make the concept of the music video based on that. 
 
-The concept we came up with was quite simple but I am also very happy with the result, and our method for doing it was a little different than what you would assume looking at the video. Just like with all the previous posts in this blog we had a very low budget, so we could not afford coloured backdrops. But the whole concept was that we wanted a different colour for each instrument. The question was, how do we achieve this vision without the budget for buying the backdrops?
+The concept we came up with was quite simple but I am also very happy with the result, and our method for doing it was a little different than what you would assume looking at the video. As usual in this blog we had a very low budget, so we could not afford coloured backdrops. But the whole concept was that we wanted a different colour for each instrument. The question was, how do we achieve this vision without the budget for buying the backdrops?
 
 ## The power of a white backdrop
 
