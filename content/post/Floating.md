@@ -18,13 +18,13 @@ The concept we came up with was quite simple but I am also very happy with the r
 
 So, we have 5 instruments and we want 5 different coloured backdrops. You're thinking "just do greenscreen.." but I knew from the start that with the highly reflective surfaces of the instruments that would lead to several issues, so I wanted to get it done in-camera. This led me to think about all the RGB LEDs that have been released recently. I got the idea to use one backdrop - white and light it with RGB-lights in order to make the backdrop coloured. 
 
-{{< figure src="/img/image/1.jpg" title="The power of combining coloured lights with a big white paper" >}}
+{{< figure src="/img/floating/1.jpg" title="The power of combining coloured lights with a big white paper" >}}
 
 As you can see in this picture it actually works really well, better than I would have hoped. All I had to do was take two [Area 48 colour](https://www.bbslighting.com/products/area-48-color), put on grids to keep it from spilling on Kris or the instruments and we were set! An added benefit of this technique was that changing colour of the backdrop was super fast, just change the colour of the lights and in seconds your yellow backdrop is green.
 
 ## Takeaways
 
-{{< figure src="/img/image/2.jpg" >}}
+{{< figure src="/img/floating/2.jpg" >}}
 
 As happy as I am with the results, there was one major downside. When all the colour on the backdrop comes from coloured lights you have to be very careful with any other light hitting the backdrop. If the backdrop was lit with yellow all the colour would go away as soon as it was hit by a normal daylight-balanced light. This is of course because the paper actually is white and not yellow. 
 
@@ -32,14 +32,14 @@ What this meant was that front-lighting would be more or less impossible. Any so
 
 What I went with was using two [Area 48 colour](https://www.bbslighting.com/products/area-48-color) with grids as back/rim lights and coming from above I used a (pipeline reflect)(https://www.bbslighting.com/collections/pipeline-reflect-system/pipeline-reflect-system).
 
-{{< figure src="/img/image/3.jpg" title="Silhouette. Only the coloured LEDs on the backdrop turned on" >}}
-{{< figure src="/img/image/4.jpg" >}}
+{{< figure src="/img/floating/3.jpg" title="Silhouette. Only the coloured LEDs on the backdrop turned on" >}}
+{{< figure src="/img/floating/4.jpg" >}}
 
-{{< figure src="/img/image/5.jpg" >}}
+{{< figure src="/img/floating/5.jpg" >}}
 
 Here you can see the whole setup, if you look closely you can see that some of the colour is fading towards the edges of the backdrop. I evened all of the backdrop out in post using [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve). 
 
-{{< figure src="/img/image/6.jpg"
+{{< figure src="/img/floating/6.jpg" >}}
 
 A view from the other side. Here you can see the coloured lights and how little spill there is from them when using the grids.
 
